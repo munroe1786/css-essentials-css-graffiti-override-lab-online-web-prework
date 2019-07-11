@@ -7,6 +7,6 @@ body #wall #tag-2 {
 body #wall #tag-3.slick {
   display: none;
 }
-#wall #tag4 {
+#wall .parent #tag4 {
   display: none;
 }
